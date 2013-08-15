@@ -7,3 +7,6 @@
 4)git commit -m "first commit"  执行提交说明，在Gitz中这个属于强制性的
 5)git remote add origin https://github.com/XFZLDXF/TEST.git   添加本地仓库origin和指定远程仓库地址
 6)git push origin master  推送本地仓库到远程指定的master分支上
+
+
+7)git clone url
