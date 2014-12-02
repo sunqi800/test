@@ -1,0 +1,3 @@
+FAIL_SYS_TRAFFIC_LIMIT::流量限制
+FAIL_SYS_API_STOP_SERVICE::应用访问的api暂停服务
+FAIL_SYS_FLOWLIMIT::您的请求超出容量被限制
