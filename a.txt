@@ -10,7 +10,8 @@
 
 
 7)git clone url
-
+ 
+wo cao
 
 Git详解之一 Git起步 - http://www.open-open.com/lib/view/open1328069609436.html
 
